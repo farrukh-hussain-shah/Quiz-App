@@ -1,0 +1,42 @@
+Instruction {
+    //Input Type IS Used to which datatype is input e.g numeric aplhabt etc do to docymentatjion and explore
+
+/* THe change of upper theme theme
+   1Method Manifest>android:theme>MaterialComponents.DayNight.NoActionBar
+   2 you can change text jof headlines in themes.xml
+
+   2 andriod Portant => Manifest>activity>android:screenOrientation="portrait"
+
+
+ /*                                           4 Chapter
+   Ist we add button and text then said .textisEmpty then toast otherwise switch to the next Quizactivity
+
+   then we make class of Question like function that iclude id,question,choice,and,correct,answer
+
+   them we make a constant.kt class and in this we have to make equal to ArrayList to Question then we have input  the flags and other data  */
+
+    /*why fillViewPort is used  QuizActivy.xml*/
+
+//                                5 Chapter
+//    we design a QuizActivity UI through LinearLAyout you have to remenber that One linear is used for text other "/>" is used for next line Image and
+//    then we add progressbar and the text of Like(0/9)
+
+
+//                            6 Chapter
+//    in this we have desing options throughth new Linear Layout and
+//    then we make a clas of (default_option_border_bg.xml) in drawable to desing the option
+//        and them we intersect tw0 calles Question and activity_quiz.xml
+//    but there i don't completlu understand the intersection
+
+                               /* 7 Chapter
+    in this we desing the options like when user click then what the option look like
+            in this we used to slect the text and convert it into funtion*/
+
+
+
+
+
+//TODO intent.putExtra is used to share data from one activity to another
+
+
+}
